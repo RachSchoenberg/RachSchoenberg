@@ -18,7 +18,13 @@
 
 Before data science, I spent eight years as an educator, ran a crisis nonprofit through a difficult staff transition, and coordinated teams across very different environments. Those years taught me how to communicate across any room and how to keep complex work organized when the stakes are high. I brought those skills into tech and built on them. Now I am an MS candidate at **Northeastern University** and **Data Analyst Intern at Basham & Scott LLC**, building ML systems, ETL pipelines, and geospatial tools that process 100K+ records. I can build the thing and explain it to anyone who needs to use it.
 
-<br/>
+</td>
+</tr>
+</table>
+
+---
+
+### Skills
 
 <table>
 <tr>
@@ -60,6 +66,7 @@ Before data science, I spent eight years as an educator, ran a crisis nonprofit 
 </td>
 </tr>
 </table>
+
 
 </td>
 </tr>
