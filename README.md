@@ -20,10 +20,29 @@ Before data science, I spent eight years as an educator, ran a crisis nonprofit 
 
 <br/>
 
-![Location](https://img.shields.io/badge/Portland%2C%20ME-378ADD?style=flat-square&logoColor=white&logo=googlemaps)
-![Education](https://img.shields.io/badge/MS%20Data%20Science%202027-85B7EB?style=flat-square&logoColor=white&logo=graduation-cap)
-![Experience](https://img.shields.io/badge/8%2B%20Years%20in%20Education-EF9F27?style=flat-square&logoColor=white)
-![Email](https://img.shields.io/badge/rachel.l.schoenberg%40gmail.com-D4537E?style=flat-square&logoColor=white&logo=gmail)
+**Languages**
+![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-378ADD?style=flat-square&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-85B7EB?style=flat-square&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-185FA5?style=flat-square&logoColor=white)
+
+**Data Analysis & ML**
+![Pandas](https://img.shields.io/badge/Pandas-D4537E?style=flat-square&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-E8927C?style=flat-square&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-EF9F27?style=flat-square&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-F4A261?style=flat-square&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-D4537E?style=flat-square&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-E8927C?style=flat-square&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EF9F27?style=flat-square&logoColor=white) ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-F4A261?style=flat-square&logoColor=white)
+
+**BI & Reporting**
+![Power BI](https://img.shields.io/badge/Power%20BI-185FA5?style=flat-square&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-378ADD?style=flat-square&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-85B7EB?style=flat-square&logoColor=white) ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-185FA5?style=flat-square&logoColor=white)
+
+**Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-D4537E?style=flat-square&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-E8927C?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-EF9F27?style=flat-square&logoColor=white) ![Observable](https://img.shields.io/badge/Observable-F4A261?style=flat-square&logoColor=white) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-D4537E?style=flat-square&logoColor=white)
+
+**Cloud & APIs**
+![AWS S3](https://img.shields.io/badge/AWS%20S3-185FA5?style=flat-square&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-378ADD?style=flat-square&logoColor=white) ![Google API](https://img.shields.io/badge/Google%20API-85B7EB?style=flat-square&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-185FA5?style=flat-square&logoColor=white)
+
+**Database & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D4537E?style=flat-square&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-E8927C?style=flat-square&logoColor=white) ![Clio](https://img.shields.io/badge/Clio-EF9F27?style=flat-square&logoColor=white) ![Git](https://img.shields.io/badge/Git-F4A261?style=flat-square&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-D4537E?style=flat-square&logoColor=white)
+
+**Geospatial**
+![ArcGIS](https://img.shields.io/badge/ArcGIS-185FA5?style=flat-square&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-378ADD?style=flat-square&logoColor=white) ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-85B7EB?style=flat-square&logoColor=white) ![Geospatial Analysis](https://img.shields.io/badge/Geospatial%20Analysis-185FA5?style=flat-square&logoColor=white)
+
+**Other**
+![Education](https://img.shields.io/badge/Education-D4537E?style=flat-square&logoColor=white) ![Training](https://img.shields.io/badge/Training-E8927C?style=flat-square&logoColor=white) ![Project Management](https://img.shields.io/badge/Project%20Management-EF9F27?style=flat-square&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-F4A261?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -93,7 +112,8 @@ Analysis of school closure risk across Maine using enrollment, infrastructure, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-378ADD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-schoenberg-a80a88117)
 [![Email](https://img.shields.io/badge/Email-D4537E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachel.l.schoenberg@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-639922?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RachSchoenberg/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-185FA5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RachSchoenberg/Portfolio)
+[![Resume](https://img.shields.io/badge/Resume-EF9F27?style=for-the-badge&logo=googledrive&logoColor=white)](https://github.com/RachSchoenberg/RachSchoenberg/blob/main/resume.pdf)
 
 </div>
 
