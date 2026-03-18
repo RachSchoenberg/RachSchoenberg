@@ -18,13 +18,33 @@ Portland, ME &nbsp;|&nbsp; rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; Anticipat
 
 ### Featured Projects
 
-| Project | Description | Tools |
-|---|---|---|
-| <span style="color:#378ADD">**Legal Claims AutoGrader**</span> | NLP and ML system to score ~100K legal claims in real time for a law firm. Team Lead. | `Python` `NLP` `scikit-learn` |
-| <span style="color:#639922">**Maine Redevelopment Platform**</span> | Geospatial platform integrating 140+ CSVs across 480+ municipalities for municipal planners. | `GeoPandas` `Leaflet.js` `Python` |
-| <span style="color:#D4537E">**Maine Mobile Health Pipeline**</span> | ETL pipeline for 54K+ patient records with K-Means clustering to identify geographic health trends. | `Python` `Pandas` `K-Means` |
-| <span style="color:#EF9F27">**Customer Behavior Analysis**</span> | Automated RFM segmentation pipeline analyzing 6 months of transaction data for local businesses. | `Python` `Google API` |
-| <span style="color:#85B7EB">**Maine School Closure Risk**</span> | Analysis of school closure risk across Maine using enrollment, infrastructure, and demographic data. | `Python` `Pandas` |
+**![Legal Claims AutoGrader](https://img.shields.io/badge/Legal%20Claims%20AutoGrader-378ADD?style=flat-square&logoColor=white)**
+NLP and ML system to score ~100K legal claims in real time for a law firm. Team Lead.
+`Python` `NLP` `scikit-learn` `Pandas` `REST APIs` `Postman`
+
+---
+
+**![Maine Redevelopment Platform](https://img.shields.io/badge/Maine%20Redevelopment%20Platform-639922?style=flat-square&logoColor=white)**
+Geospatial platform integrating 140+ CSVs across 480+ municipalities for municipal planners.
+`GeoPandas` `Leaflet.js` `Python` `DuckDB` `PostgreSQL` `Observable`
+
+---
+
+**![Maine Mobile Health Pipeline](https://img.shields.io/badge/Maine%20Mobile%20Health%20Pipeline-D4537E?style=flat-square&logoColor=white)**
+ETL pipeline for 54K+ patient records with K-Means clustering to identify geographic health trends.
+`Python` `Pandas` `NumPy` `scikit-learn` `K-Means` `Matplotlib` `Seaborn`
+
+---
+
+**![Customer Behavior Analysis](https://img.shields.io/badge/Customer%20Behavior%20Analysis-EF9F27?style=flat-square&logoColor=white)**
+Automated RFM segmentation pipeline analyzing 6 months of transaction data for local businesses.
+`Python` `Google API` `Pandas` `Plotly`
+
+---
+
+**![Maine School Closure Risk](https://img.shields.io/badge/Maine%20School%20Closure%20Risk-85B7EB?style=flat-square&logoColor=white)**
+Analysis of school closure risk across Maine using enrollment, infrastructure, and demographic data.
+`Python` `Pandas` `GeoPandas` `ArcGIS` `Observable`
 
 ---
 
