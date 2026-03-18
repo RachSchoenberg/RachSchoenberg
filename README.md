@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8927C,F4A261,E76F51&height=180&section=header&text=Hi,%20I'm%20Rachel%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8927C,F4A261,E76F51&height=180&section=header&text=Hi,%20I'm%20Rachel&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions&descAlignY=58&descSize=18" width="100%" />
 
 </div>
 
 ---
 
-### 🌱 About Me
+### About Me
 
 MS in Data Science candidate at **Northeastern University** with hands-on experience in ETL pipelines, NLP, geospatial analysis, and business intelligence. Currently interning as a **Data Analyst at Basham & Scott LLC** and serving as a **TA for Foundations of CS** at Northeastern. Background in education — I don't just build models, I communicate what they mean.
 
 > *"Passionate about making your data work for you."*
 
-📍 Portland, ME &nbsp;|&nbsp; 📬 rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; 🎓 Anticipated graduation: 2027
+Portland, ME &nbsp;|&nbsp; rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; Anticipated graduation: 2027
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 <div align="center">
 
@@ -37,19 +37,19 @@ MS in Data Science candidate at **Northeastern University** with hands-on experi
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tools |
 |---|---|---|
-| 🏛️ **Legal Claims AutoGrader** | NLP + ML system to score ~100K legal claims in real time for a law firm. Team Lead. | Python, NLP, scikit-learn |
-| 🗺️ **Maine Redevelopment Platform** | Geospatial platform integrating 140+ CSVs across 480+ municipalities for municipal planners. | GeoPandas, Leaflet.js, Python |
-| 🏥 **Maine Mobile Health Pipeline** | ETL pipeline for 54K+ patient records with K-Means clustering to identify geographic health trends. | Python, Pandas, K-Means |
-| 📊 **Customer Behavior Analysis** | Automated RFM segmentation pipeline analyzing 6 months of transaction data for local businesses. | Python, Google API |
-| 🏫 **Maine School Closure Risk** | Analysis of school closure risk across Maine using enrollment, infrastructure, and demographic data. | Python, Pandas |
+| **Legal Claims AutoGrader** | NLP and ML system to score ~100K legal claims in real time for a law firm. Team Lead. | Python, NLP, scikit-learn |
+| **Maine Redevelopment Platform** | Geospatial platform integrating 140+ CSVs across 480+ municipalities for municipal planners. | GeoPandas, Leaflet.js, Python |
+| **Maine Mobile Health Pipeline** | ETL pipeline for 54K+ patient records with K-Means clustering to identify geographic health trends. | Python, Pandas, K-Means |
+| **Customer Behavior Analysis** | Automated RFM segmentation pipeline analyzing 6 months of transaction data for local businesses. | Python, Google API |
+| **Maine School Closure Risk** | Analysis of school closure risk across Maine using enrollment, infrastructure, and demographic data. | Python, Pandas |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -61,16 +61,16 @@ MS in Data Science candidate at **Northeastern University** with hands-on experi
 
 ---
 
-### 💼 Currently
+### Currently
 
-- 🔬 **Data Analyst Intern** @ Basham & Scott LLC — BI reporting, ETL pipelines, Python + Clio API
-- 🎓 **MS Data Science** @ Northeastern University — Machine Learning, Algorithms, Data Viz
-- 👩‍🏫 **Teaching Assistant** @ Northeastern — Foundations of CS & Discrete Mathematics
-- 👀 Open to **full-time and internship** opportunities in data science & analytics
+- **Data Analyst Intern** at Basham & Scott LLC: BI reporting, ETL pipelines, Python and Clio API
+- **MS Data Science** at Northeastern University: Machine Learning, Algorithms, Data Viz
+- **Teaching Assistant** at Northeastern: Foundations of CS and Discrete Mathematics
+- Open to **full-time and internship** opportunities in data science and analytics
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <div align="center">
 
