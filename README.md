@@ -37,7 +37,7 @@ Before data science, I spent eight years as an educator, ran a crisis nonprofit 
 <tr>
 <td width="50%" valign="top">
 
-**[![Legal Claims AutoGrader](https://img.shields.io/badge/Legal%20Claims%20AutoGrader-378ADD?style=for-the-badge&logoColor=white)](#)**
+**![Legal Claims AutoGrader](https://img.shields.io/badge/Legal%20Claims%20AutoGrader-185FA5?style=for-the-badge&logoColor=white)**
 
 NLP and ML system to score ~100K legal claims in real time for a law firm. Team Lead.
 
@@ -57,7 +57,7 @@ ETL pipeline for 54K+ patient records with K-Means clustering to identify geogra
 <tr>
 <td width="50%" valign="top">
 
-**[![Customer Behavior Analysis](https://img.shields.io/badge/Customer%20Behavior%20Analysis-378ADD?style=for-the-badge&logoColor=white)](https://github.com/RachSchoenberg/Customer_Behavior_Analysis)**
+**[![Customer Behavior Analysis](https://img.shields.io/badge/Customer%20Behavior%20Analysis-185FA5?style=for-the-badge&logoColor=white)](https://github.com/RachSchoenberg/Customer_Behavior_Analysis)**
 
 Automated RFM segmentation pipeline analyzing 6 months of transaction data for local businesses.
 
@@ -66,7 +66,7 @@ Automated RFM segmentation pipeline analyzing 6 months of transaction data for l
 </td>
 <td width="50%" valign="top">
 
-**[![Maine School Closure Risk](https://img.shields.io/badge/Maine%20School%20Closure%20Risk-85B7EB?style=for-the-badge&logoColor=white)](https://github.com/RachSchoenberg/Maine-School-Closure-Risk-Assessment)**
+**[![Maine School Closure Risk](https://img.shields.io/badge/Maine%20School%20Closure%20Risk-185FA5?style=for-the-badge&logoColor=white)](https://github.com/RachSchoenberg/Maine-School-Closure-Risk-Assessment)**
 
 Analysis of school closure risk across Maine using enrollment, infrastructure, and demographic data.
 
