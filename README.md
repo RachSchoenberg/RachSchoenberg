@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="banner.jpg" width="100%" style="border-radius:8px;" />
+![banner](banner.jpg)
+
+# Rachel Schoenberg
 
 </div>
 
@@ -13,6 +15,12 @@ MS in Data Science candidate at **Northeastern University** with hands-on experi
 > *"Passionate about making your data work for you."*
 
 Portland, ME &nbsp;|&nbsp; rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; Anticipated graduation: 2027
+
+---
+
+### Skills Overview
+
+[View my interactive skills dashboard](https://rachschoenberg.github.io/Portfolio/skills.html)
 
 ---
 
