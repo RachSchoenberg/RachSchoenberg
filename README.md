@@ -1,6 +1,8 @@
-### Skills Overview
+<div align="center">
 
-[View my interactive skills dashboard](https://rachschoenberg.github.io/Portfolio/skills.html)
+![Skills Dashboard](skills.png)
+
+</div>
 
 ---
 
@@ -18,18 +20,18 @@ Portland, ME &nbsp;|&nbsp; rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; Anticipat
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20S3-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-378ADD?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-185FA5?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-EF9F27?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-D4537E?style=for-the-badge&logo=html5&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-185FA5?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-378ADD?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-639922?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20S3-97C459?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C447C?style=for-the-badge&logo=postgresql&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-639922?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-378ADD?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D4537E?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -51,9 +53,9 @@ Portland, ME &nbsp;|&nbsp; rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; Anticipat
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RachSchoenberg&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RachSchoenberg&show_icons=true&hide_border=true&count_private=true&title_color=378ADD&icon_color=D4537E&text_color=185FA5&bg_color=ffffff)
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachSchoenberg&layout=compact&theme=rose_pine&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachSchoenberg&layout=compact&hide_border=true&title_color=378ADD&text_color=185FA5&bg_color=ffffff" />
 
 </div>
 
@@ -72,9 +74,9 @@ Portland, ME &nbsp;|&nbsp; rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; Anticipat
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-schoenberg-a80a88117)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachel.l.schoenberg@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E76F51?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RachSchoenberg/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-378ADD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-schoenberg-a80a88117)
+[![Email](https://img.shields.io/badge/Email-D4537E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachel.l.schoenberg@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-639922?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RachSchoenberg/Portfolio)
 
 </div>
 
