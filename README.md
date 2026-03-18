@@ -1,10 +1,6 @@
-<div align="center">
+### Skills Overview
 
-![banner](banner.jpg)
-
-# Rachel Schoenberg
-
-</div>
+[View my interactive skills dashboard](https://rachschoenberg.github.io/Portfolio/skills.html)
 
 ---
 
@@ -15,12 +11,6 @@ MS in Data Science candidate at **Northeastern University** with hands-on experi
 > *"Passionate about making your data work for you."*
 
 Portland, ME &nbsp;|&nbsp; rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; Anticipated graduation: 2027
-
----
-
-### Skills Overview
-
-[View my interactive skills dashboard](https://rachschoenberg.github.io/Portfolio/skills.html)
 
 ---
 
