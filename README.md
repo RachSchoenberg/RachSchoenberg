@@ -1,6 +1,6 @@
 <div align="center">
 
-![Skills Dashboard](skills.png)
+<img src="skills.png" width="600" />
 
 </div>
 
@@ -16,36 +16,15 @@ Portland, ME &nbsp;|&nbsp; rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; Anticipat
 
 ---
 
-### Technical Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-378ADD?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-185FA5?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-EF9F27?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-D4537E?style=for-the-badge&logo=html5&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-185FA5?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-378ADD?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-639922?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS%20S3-97C459?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0C447C?style=for-the-badge&logo=postgresql&logoColor=white)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-639922?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-378ADD?style=for-the-badge&logo=plotly&logoColor=white)
-![Git](https://img.shields.io/badge/Git-D4537E?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
 ### Featured Projects
 
 | Project | Description | Tools |
 |---|---|---|
-| **Legal Claims AutoGrader** | NLP and ML system to score ~100K legal claims in real time for a law firm. Team Lead. | Python, NLP, scikit-learn |
-| **Maine Redevelopment Platform** | Geospatial platform integrating 140+ CSVs across 480+ municipalities for municipal planners. | GeoPandas, Leaflet.js, Python |
-| **Maine Mobile Health Pipeline** | ETL pipeline for 54K+ patient records with K-Means clustering to identify geographic health trends. | Python, Pandas, K-Means |
-| **Customer Behavior Analysis** | Automated RFM segmentation pipeline analyzing 6 months of transaction data for local businesses. | Python, Google API |
-| **Maine School Closure Risk** | Analysis of school closure risk across Maine using enrollment, infrastructure, and demographic data. | Python, Pandas |
+| <span style="color:#378ADD">**Legal Claims AutoGrader**</span> | NLP and ML system to score ~100K legal claims in real time for a law firm. Team Lead. | `Python` `NLP` `scikit-learn` |
+| <span style="color:#639922">**Maine Redevelopment Platform**</span> | Geospatial platform integrating 140+ CSVs across 480+ municipalities for municipal planners. | `GeoPandas` `Leaflet.js` `Python` |
+| <span style="color:#D4537E">**Maine Mobile Health Pipeline**</span> | ETL pipeline for 54K+ patient records with K-Means clustering to identify geographic health trends. | `Python` `Pandas` `K-Means` |
+| <span style="color:#EF9F27">**Customer Behavior Analysis**</span> | Automated RFM segmentation pipeline analyzing 6 months of transaction data for local businesses. | `Python` `Google API` |
+| <span style="color:#85B7EB">**Maine School Closure Risk**</span> | Analysis of school closure risk across Maine using enrollment, infrastructure, and demographic data. | `Python` `Pandas` |
 
 ---
 
