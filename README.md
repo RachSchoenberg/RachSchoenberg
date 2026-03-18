@@ -2,15 +2,25 @@
 
 <img src="skills.png" width="600" />
 
+<br/>
+
+[![About Me](https://img.shields.io/badge/About%20Me-185FA5?style=for-the-badge&logoColor=white)](#about-me)
+[![Skills](https://img.shields.io/badge/Skills-D4537E?style=for-the-badge&logoColor=white)](#skills)
+[![Projects](https://img.shields.io/badge/Projects-EF9F27?style=for-the-badge&logoColor=white)](#featured-projects)
+[![Currently](https://img.shields.io/badge/Currently-378ADD?style=for-the-badge&logoColor=white)](#currently)
+[![Let's Connect](https://img.shields.io/badge/Let's%20Connect-E8927C?style=for-the-badge&logoColor=white)](#lets-connect)
+
 </div>
 
 ---
 
 <div align="center">
-<a href="https://www.linkedin.com/in/rachel-schoenberg-a80a88117"><img src="https://img.shields.io/badge/Rachel%20Schoenberg%20%7C%20Data%20Scientist-D4537E?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rachel-schoenberg-a80a88117"><img src="https://img.shields.io/badge/Rachel%20Schoenberg%20%7C%20Data%20Scientist-D4537E?style=for-the-badge&logoColor=white" height="50" /></a>
 </div>
 
-### About Me
+---
+
+## <span style="color:#378ADD">About Me</span>
 
 <table>
 <tr>
@@ -24,49 +34,56 @@ Before data science, I spent eight years as an educator, ran a crisis nonprofit 
 
 ---
 
-### Skills
+## <span style="color:#378ADD">Skills</span>
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**Languages**
+**<span style="color:#EF9F27">Languages</span>**<br/>
 ![Python](https://img.shields.io/badge/Python-185FA5?style=flat-square&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-378ADD?style=flat-square&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-85B7EB?style=flat-square&logoColor=white) ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-185FA5?style=flat-square&logoColor=white)
 
-**Data Analysis & ML**
+<br/>
+
+**<span style="color:#EF9F27">Data Analysis & ML</span>**<br/>
 ![Pandas](https://img.shields.io/badge/Pandas-D4537E?style=flat-square&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-E8927C?style=flat-square&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-EF9F27?style=flat-square&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-F4A261?style=flat-square&logoColor=white) ![Boto3](https://img.shields.io/badge/Boto3-D4537E?style=flat-square&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-E8927C?style=flat-square&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-EF9F27?style=flat-square&logoColor=white) ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-F4A261?style=flat-square&logoColor=white)
 
-**BI & Reporting**
+<br/>
+
+**<span style="color:#EF9F27">BI & Reporting</span>**<br/>
 ![Power BI](https://img.shields.io/badge/Power%20BI-185FA5?style=flat-square&logoColor=white) ![Power Query](https://img.shields.io/badge/Power%20Query-378ADD?style=flat-square&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-85B7EB?style=flat-square&logoColor=white) ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-185FA5?style=flat-square&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-**Visualization**
+**<span style="color:#EF9F27">Visualization</span>**<br/>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-D4537E?style=flat-square&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-E8927C?style=flat-square&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-EF9F27?style=flat-square&logoColor=white) ![Observable](https://img.shields.io/badge/Observable-F4A261?style=flat-square&logoColor=white)
 
-**Cloud & APIs**
+<br/>
+
+**<span style="color:#EF9F27">Cloud & APIs</span>**<br/>
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-185FA5?style=flat-square&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-378ADD?style=flat-square&logoColor=white) ![Google API](https://img.shields.io/badge/Google%20API-85B7EB?style=flat-square&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-185FA5?style=flat-square&logoColor=white)
 
-**Database & Tools**
+<br/>
+
+**<span style="color:#EF9F27">Database & Tools</span>**<br/>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D4537E?style=flat-square&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-E8927C?style=flat-square&logoColor=white) ![Clio](https://img.shields.io/badge/Clio-EF9F27?style=flat-square&logoColor=white) ![Git](https://img.shields.io/badge/Git-F4A261?style=flat-square&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-D4537E?style=flat-square&logoColor=white)
 
-**Geospatial**
+<br/>
+
+**<span style="color:#EF9F27">Geospatial</span>**<br/>
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-185FA5?style=flat-square&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-378ADD?style=flat-square&logoColor=white) ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-85B7EB?style=flat-square&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
-**Education & Leadership**
+**<span style="color:#EF9F27">Education & Leadership</span>**<br/>
 ![Curriculum Building](https://img.shields.io/badge/Curriculum%20Building-D4537E?style=flat-square&logoColor=white) ![Training & Development](https://img.shields.io/badge/Training%20%26%20Development-E8927C?style=flat-square&logoColor=white) ![Trauma-Informed Management](https://img.shields.io/badge/Trauma--Informed%20Management-EF9F27?style=flat-square&logoColor=white) ![Yoga Instructor](https://img.shields.io/badge/Yoga%20Instructor-F4A261?style=flat-square&logoColor=white)
 
-**Operations**
+<br/>
+
+**<span style="color:#EF9F27">Operations</span>**<br/>
 ![Project Management](https://img.shields.io/badge/Project%20Management-185FA5?style=flat-square&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-378ADD?style=flat-square&logoColor=white) ![Time Management](https://img.shields.io/badge/Time%20Management-85B7EB?style=flat-square&logoColor=white) ![Highly Organized](https://img.shields.io/badge/Highly%20Organized-185FA5?style=flat-square&logoColor=white) ![Stakeholder Communication](https://img.shields.io/badge/Stakeholder%20Communication-378ADD?style=flat-square&logoColor=white)
-
-</td>
-</tr>
-</table>
-
 
 </td>
 </tr>
@@ -74,7 +91,7 @@ Before data science, I spent eight years as an educator, ran a crisis nonprofit 
 
 ---
 
-### Featured Projects
+## <span style="color:#378ADD">Featured Projects</span>
 
 <table>
 <tr>
@@ -121,7 +138,7 @@ Analysis of school closure risk across Maine using enrollment, infrastructure, a
 
 ---
 
-### Currently
+## <span style="color:#378ADD">Currently</span>
 
 ![Data Analyst Intern](https://img.shields.io/badge/Data%20Analyst%20Intern%20%40%20Basham%20%26%20Scott-378ADD?style=for-the-badge&logoColor=white)
 ![MS Data Science](https://img.shields.io/badge/MS%20Data%20Science%20%40%20Northeastern-185FA5?style=for-the-badge&logoColor=white)
@@ -130,7 +147,7 @@ Analysis of school closure risk across Maine using enrollment, infrastructure, a
 
 ---
 
-### Let's Connect
+## <span style="color:#378ADD">Let's Connect</span>
 
 <div align="center">
 
