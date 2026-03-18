@@ -8,11 +8,15 @@
 
 ### About Me
 
-MS in Data Science candidate at **Northeastern University** with hands-on experience in machine learning, ETL pipelines, NLP, geospatial analysis, and business intelligence. Currently interning as a **Data Analyst at Basham & Scott LLC** and serving as a **TA for Discrete Mathematics** at Northeastern. Due to my background in education, I don't just build models, I communicate what they mean.
+Before data science, I spent eight years as an educator, ran a crisis nonprofit through a difficult
+staff transition, and coordinated teams across very different environments. Those years taught me
+how to communicate across any room and how to keep complex work organized when the stakes are high.
+I brought those skills into tech and built on them. Now I am an MS candidate at **Northeastern
+University** and **Data Analyst Intern at Basham & Scott LLC**, building ML systems, ETL pipelines,
+and geospatial tools that process 100K+ records. I can build the thing and explain it to anyone
+who needs to use it.
 
-> *"Passionate about making your data work for you."*
-
- 📍 Portland, ME &nbsp;|&nbsp; ✉️ rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; 🎓 Anticipated graduation: 2027
+📍 Portland, ME &nbsp;|&nbsp; ✉️ rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; 🎓 Anticipated graduation: 2027
 
 ---
 
