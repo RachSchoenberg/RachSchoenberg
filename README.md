@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-[![Rachel Schoenberg | Data Scientist](https://img.shields.io/badge/Rachel%20Schoenberg%20%7C%20Data%20Scientist-D4537E?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/rachel-schoenberg-a80a88117)
+<a href="https://www.linkedin.com/in/rachel-schoenberg-a80a88117"><img src="https://img.shields.io/badge/Rachel%20Schoenberg%20%7C%20Data%20Scientist-D4537E?style=for-the-badge&logoColor=white" /></a>
 </div>
 
 ### About Me
