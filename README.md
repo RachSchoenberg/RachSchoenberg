@@ -6,17 +6,28 @@
 
 ---
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=378ADD,85B7EB,D4537E,EF9F27&height=120&section=header&text=Rachel%20Schoenberg%20%7C%20Data%20Scientist&fontSize=36&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
+</div>
+
 ### About Me
 
-Before data science, I spent eight years as an educator, ran a crisis nonprofit through a difficult
-staff transition, and coordinated teams across very different environments. Those years taught me
-how to communicate across any room and how to keep complex work organized when the stakes are high.
-I brought those skills into tech and built on them. Now I am an MS candidate at **Northeastern
-University** and **Data Analyst Intern at Basham & Scott LLC**, building ML systems, ETL pipelines,
-and geospatial tools that process 100K+ records. I can build the thing and explain it to anyone
-who needs to use it.
+<table>
+<tr>
+<td>
 
-📍 Portland, ME &nbsp;|&nbsp; ✉️ rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; 🎓 Anticipated graduation: 2027
+Before data science, I spent eight years as an educator, ran a crisis nonprofit through a difficult staff transition, and coordinated teams across very different environments. Those years taught me how to communicate across any room and how to keep complex work organized when the stakes are high. I brought those skills into tech and built on them. Now I am an MS candidate at **Northeastern University** and **Data Analyst Intern at Basham & Scott LLC**, building ML systems, ETL pipelines, and geospatial tools that process 100K+ records. I can build the thing and explain it to anyone who needs to use it.
+
+<br/>
+
+![Location](https://img.shields.io/badge/Portland%2C%20ME-378ADD?style=flat-square&logoColor=white&logo=googlemaps)
+![Education](https://img.shields.io/badge/MS%20Data%20Science%202027-85B7EB?style=flat-square&logoColor=white&logo=graduation-cap)
+![Experience](https://img.shields.io/badge/8%2B%20Years%20in%20Education-EF9F27?style=flat-square&logoColor=white)
+![Email](https://img.shields.io/badge/rachel.l.schoenberg%40gmail.com-D4537E?style=flat-square&logoColor=white&logo=gmail)
+
+</td>
+</tr>
+</table>
 
 ---
 
