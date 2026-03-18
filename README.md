@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=378ADD,85B7EB,D4537E,EF9F27&height=120&section=header&text=Rachel%20Schoenberg%20%7C%20Data%20Scientist&fontSize=36&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
+[![Rachel Schoenberg | Data Scientist](https://img.shields.io/badge/Rachel%20Schoenberg%20%7C%20Data%20Scientist-D4537E?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/rachel-schoenberg-a80a88117)
 </div>
 
 ### About Me
