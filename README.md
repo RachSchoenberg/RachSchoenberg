@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8927C,F4A261,E76F51&height=180&section=header&text=Hi,%20I'm%20Rachel&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions&descAlignY=58&descSize=18" width="100%" />
+<img src="banner.jpg" width="100%" style="border-radius:8px;" />
 
 </div>
 
@@ -76,7 +76,7 @@ Portland, ME &nbsp;|&nbsp; rachel.l.schoenberg@gmail.com &nbsp;|&nbsp; Anticipat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachel-schoenberg-a80a88117)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachel.l.schoenberg@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E76F51?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/RachSchoenberg/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E76F51?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RachSchoenberg/Portfolio)
 
 </div>
 
